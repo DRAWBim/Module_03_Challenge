@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Module_03_Challenge</Text>
+    <Description>Module_03_Challenge</Description>
+    <Assembly>Module_03_Challenge.dll</Assembly>
+    <FullClassName>Module_03_Challenge.Add_Furniture</FullClassName>
+    <ClientId>21937284-CD55-4CC1-A2D9-BDEFF6FFDF0F</ClientId>
+    <VendorId>com.DRAWCollective</VendorId>
+    <VendorDescription>DRAW Collective, http://www.drawcollective.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
